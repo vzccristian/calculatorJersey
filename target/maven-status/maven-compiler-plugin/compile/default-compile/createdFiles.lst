@@ -1,0 +1,16 @@
+io/swagger/api/factories/MemApiServiceFactory.class
+io/swagger/api/impl/MemApiServiceImpl.class
+io/swagger/api/impl/CalculateApiServiceImpl.class
+io/swagger/api/CalculateApi.class
+io/swagger/api/MemApi.class
+io/swagger/api/RFC3339DateFormat.class
+io/swagger/api/StringUtil.class
+io/swagger/api/ApiOriginFilter.class
+io/swagger/api/factories/CalculateApiServiceFactory.class
+io/swagger/api/ApiResponseMessage.class
+io/swagger/api/NotFoundException.class
+io/swagger/api/CalculateApiService.class
+io/swagger/api/Bootstrap.class
+io/swagger/api/MemApiService.class
+io/swagger/api/JacksonJsonProvider.class
+io/swagger/api/ApiException.class
